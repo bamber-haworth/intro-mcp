@@ -1,0 +1,6 @@
+anthropic
+python-dotenv
+mcp
+claude
+prompt-toolkit
+ld
